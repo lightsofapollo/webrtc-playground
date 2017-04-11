@@ -1,0 +1,9 @@
+{
+  "name": "webrtc-playground",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "James Lal <james@lightsofapollo.com>",
+  "license": "MIT"
+}
