@@ -66,6 +66,7 @@ established session (Also see TURN / STUN).
   - [ICE](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment)
   - [TURN](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT)
   - [STUN](https://en.wikipedia.org/wiki/STUN)
+  - [SDP](https://tools.ietf.org/html/rfc4566#page-7)
 
 # LICENSE
 
